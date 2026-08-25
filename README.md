@@ -140,17 +140,6 @@ Actualmente estoy profundizando mis conocimientos en:
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Castellanos98Alan&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castellanos98Alan&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 # 📫 Contacto
 
