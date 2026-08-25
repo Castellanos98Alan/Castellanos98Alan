@@ -151,3 +151,9 @@ Actualmente estoy profundizando mis conocimientos en:
 
 💼 **Abierto a oportunidades Junior / Trainee en desarrollo de software.**
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Castellanos98Alan&label=VISITAS:&color=FFD700&style=flat" alt="Contador de visitas" />
+</p>
+
